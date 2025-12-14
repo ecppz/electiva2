@@ -1,4 +1,3 @@
----
 - name: Configurar servidores
   hosts: servers
   become: yes
